@@ -1,4 +1,3 @@
-/* eslint-disable vitest/no-commented-out-tests */
 import Button, { ButtonSizes, ButtonVariations } from './button'
 
 import { fireEvent, render } from '@testing-library/react'
